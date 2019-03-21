@@ -7,6 +7,9 @@ onglet "cours") je me suis précipité sur le net pour suivre des tutos sur Git!
 Tout s'est bien passé mais quand j'ai vu que ce cour existait je me suis mis à le parcourir et il est beaucoup mieux fait
 que ce que j'ai trouvé dans mes premières recherches ! Merci OC \o/
 
+Dans ce repo vous trouverez 1 README et 2 fichiers supplémentaires comme demandé!
+et assez de commit détaillés.
+
 Bonne journée à tous
 
 
